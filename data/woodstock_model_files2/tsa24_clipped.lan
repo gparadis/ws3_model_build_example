@@ -1,0 +1,34 @@
+
+*THEME Timber Supply Area (TSA)
+tsa24_clipped
+
+*THEME Timber Harvesting Land Base (THLB)
+0
+1
+
+*THEME Analysis Unit (AU)
+2401002
+2402002
+
+*THEME Leading tree species (CANFI species code)
+304
+100
+1201
+204
+104
+
+*THEME Yield curve ID
+2401002
+2402002
+2402001f50o
+2402002f50o
+2402001f50t
+2402002f50t
+*AGGREGATE unfertilized
+2401002
+2402002
+*AGGREGATE fertilized
+2402001f50o
+2402002f50o
+2402001f50t
+2402002f50t

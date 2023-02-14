@@ -1,0 +1,14 @@
+ACTIONS
+
+*ACTION cc Y clearcut
+*OPERABLE cc
+? 1 ? ? ? _AGE >= 40 AND _AGE <= 999
+
+*ACTION f50o N fertilize once at age 50
+*OPERABLE f50o
+? 1 ? ? unfertilized _AGE >= 50 AND _AGE <= 50
+
+*ACTION f50t N fertilize twice at age 50
+*OPERABLE f50t
+? 1 ? ? unfertilized _AGE >= 50 AND _AGE <= 50
+
